@@ -232,10 +232,12 @@ menu "Games"
 	source "package/lbreakout2/Config.in"
 	source "package/ltris/Config.in"
 	source "package/opentyrian/Config.in"
+	source "package/yamagiquake2/Config.in"
 	source "package/opentyrian-data/Config.in"
 	source "package/prboom/Config.in"
 	source "package/rubix/Config.in"
 	source "package/sl/Config.in"
+	source "package/tyrquake/Config.in"
 endmenu
 
 menu "Graphic libraries and applications (graphic/text)"
