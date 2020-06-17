@@ -1,8 +1,6 @@
 Buildroot is a simple, efficient and easy-to-use tool to generate embedded
 Linux systems through cross-compilation.
 
-CCCC
-
 The documentation can be found in docs/manual. You can generate a text
 document with 'make manual-text' and read output/docs/manual/manual.text.
 Online documentation can be found at http://buildroot.org/docs.html
